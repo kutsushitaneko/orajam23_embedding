@@ -1,0 +1,8 @@
+.venv/
+old/
+faces/
+images/
+embeddings/
+.env
+*.kv
+*.npy

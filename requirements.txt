@@ -1,0 +1,14 @@
+gensim
+oci
+python-dotenv
+scikit-learn
+matplotlib
+japanize_matplotlib
+numpy
+seaborn
+cohere
+pandas
+Jinja2
+umap-learn
+adjustText
+ipywidgets
