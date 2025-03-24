@@ -12,3 +12,9 @@ Jinja2
 umap-learn
 adjustText
 ipywidgets
+h5py
+protobuf
+fugashi
+unidic-lite
+tabulate
+gradio

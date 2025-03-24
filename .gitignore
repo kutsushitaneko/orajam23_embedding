@@ -3,6 +3,8 @@ old/
 faces/
 images/
 embeddings/
+ecimages/
+output/
 .env
 *.kv
 *.npy
