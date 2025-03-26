@@ -8,3 +8,4 @@ output/
 .env
 *.kv
 *.npy
+code-workspace
