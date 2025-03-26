@@ -1,12 +1,11 @@
+import gensim.downloader as api
 from gensim.models import KeyedVectors
-from scipy.spatial.distance import cosine as cosine_distance
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import normalize
 import matplotlib.pyplot as plt
 import japanize_matplotlib
-from sklearn.decomposition import PCA
-import os
-import gensim.downloader as api
-from sklearn.preprocessing import normalize
 from adjustText import adjust_text
+import os
 import warnings
 warnings.filterwarnings('ignore')
 
